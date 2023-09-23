@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ManoharaDraksharam
 - 👀 I’m interested in Automation
 - 🌱 I’m currently learning PLC, robotics Engineering
+- Robot operating system
 - 💞️ I’m looking to collaborate on Industrial Automation
 - - 📫 How to reach me dmranganath@gmail.com
 
