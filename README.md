@@ -3,10 +3,7 @@
 - 🌱 I’m currently learning PLC, robotics Engineering
 - Robot operating system
 - 💞️ I’m looking to collaborate on Industrial Automation
-- - 📫 How to reach me dmranganath@gmail.com
-
-## Subheader
-  Push command
+- - 📫 How to reach me dmranganath@gmail.co
     
 
 <!---
